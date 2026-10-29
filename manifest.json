@@ -1,0 +1,3405 @@
+{
+ "updated_utc": "2026-10-29T13:26:05Z",
+ "run_date": "2026-10-29",
+ "snow": {
+  "res_m": 1000,
+  "bounds": [
+   [
+    43.59400000000001,
+    4.6
+   ],
+   [
+    48.400000000000006,
+    16.804552
+   ]
+  ],
+  "days": [
+   {
+    "date": "2026-10-22",
+    "kind": "analysis",
+    "png": "snow_alps_1km_20261022.png",
+    "val": "snowval_alps_1km_20261022.png",
+    "val16": "snowval16_alps_1km_20261022.png",
+    "new24": "new24_alps_1km_20261022.png",
+    "new24val": "new24val_alps_1km_20261022.png",
+    "new72": "new72_alps_1km_20261022.png",
+    "new72val": "new72val_alps_1km_20261022.png",
+    "assimilated": true,
+    "obs": {
+     "modis_days": 6,
+     "s2_scenes": 0,
+     "ruler": 0,
+     "photo": 0,
+     "label": "assimil\u00e9 : MODIS 6 j",
+     "label_fr": "assimil\u00e9 : MODIS 6 j \u00b7 compar\u00e9 \u00e0 675 stations officielles",
+     "label_en": "assimilated: MODIS 6 d \u00b7 checked against 675 official stations",
+     "stations_label_en": "checked against 675 official stations",
+     "stations_label_fr": "compar\u00e9 \u00e0 675 stations officielles",
+     "stations_label_it": "confrontato con 675 stazioni ufficiali",
+     "label_it": "assimilato: MODIS 6 g \u00b7 confrontato con 675 stazioni ufficiali",
+     "stations_label_de": "mit 675 offiziellen Stationen verglichen",
+     "label_de": "assimiliert: MODIS 6 T \u00b7 mit 675 offiziellen Stationen verglichen",
+     "stations_n": 675,
+     "stations_calibrated": false
+    }
+   },
+   {
+    "date": "2026-10-23",
+    "kind": "analysis",
+    "png": "snow_alps_1km_20261023.png",
+    "val": "snowval_alps_1km_20261023.png",
+    "val16": "snowval16_alps_1km_20261023.png",
+    "new24": "new24_alps_1km_20261023.png",
+    "new24val": "new24val_alps_1km_20261023.png",
+    "new72": "new72_alps_1km_20261023.png",
+    "new72val": "new72val_alps_1km_20261023.png",
+    "assimilated": true,
+    "obs": {
+     "modis_days": 6,
+     "s2_scenes": 0,
+     "ruler": 0,
+     "photo": 0,
+     "label": "assimil\u00e9 : MODIS 6 j",
+     "label_fr": "assimil\u00e9 : MODIS 6 j \u00b7 compar\u00e9 \u00e0 650 stations officielles",
+     "label_en": "assimilated: MODIS 6 d \u00b7 checked against 650 official stations",
+     "stations_label_en": "checked against 650 official stations",
+     "stations_label_fr": "compar\u00e9 \u00e0 650 stations officielles",
+     "stations_label_it": "confrontato con 650 stazioni ufficiali",
+     "label_it": "assimilato: MODIS 6 g \u00b7 confrontato con 650 stazioni ufficiali",
+     "stations_label_de": "mit 650 offiziellen Stationen verglichen",
+     "label_de": "assimiliert: MODIS 6 T \u00b7 mit 650 offiziellen Stationen verglichen",
+     "stations_n": 650,
+     "stations_calibrated": false
+    }
+   },
+   {
+    "date": "2026-10-24",
+    "kind": "analysis",
+    "png": "snow_alps_1km_20261024.png",
+    "val": "snowval_alps_1km_20261024.png",
+    "val16": "snowval16_alps_1km_20261024.png",
+    "new24": "new24_alps_1km_20261024.png",
+    "new24val": "new24val_alps_1km_20261024.png",
+    "new72": "new72_alps_1km_20261024.png",
+    "new72val": "new72val_alps_1km_20261024.png",
+    "assimilated": true,
+    "obs": {
+     "modis_days": 6,
+     "s2_scenes": 0,
+     "ruler": 0,
+     "photo": 0,
+     "label": "assimil\u00e9 : MODIS 6 j",
+     "label_fr": "assimil\u00e9 : MODIS 6 j \u00b7 compar\u00e9 \u00e0 662 stations officielles",
+     "label_en": "assimilated: MODIS 6 d \u00b7 checked against 662 official stations",
+     "stations_label_en": "checked against 662 official stations",
+     "stations_label_fr": "compar\u00e9 \u00e0 662 stations officielles",
+     "stations_label_it": "confrontato con 662 stazioni ufficiali",
+     "label_it": "assimilato: MODIS 6 g \u00b7 confrontato con 662 stazioni ufficiali",
+     "stations_label_de": "mit 662 offiziellen Stationen verglichen",
+     "label_de": "assimiliert: MODIS 6 T \u00b7 mit 662 offiziellen Stationen verglichen",
+     "stations_n": 662,
+     "stations_calibrated": false
+    }
+   },
+   {
+    "date": "2026-10-25",
+    "kind": "analysis",
+    "png": "snow_alps_1km_20261025.png",
+    "val": "snowval_alps_1km_20261025.png",
+    "val16": "snowval16_alps_1km_20261025.png",
+    "new24": "new24_alps_1km_20261025.png",
+    "new24val": "new24val_alps_1km_20261025.png",
+    "new72": "new72_alps_1km_20261025.png",
+    "new72val": "new72val_alps_1km_20261025.png",
+    "assimilated": true,
+    "obs": {
+     "modis_days": 6,
+     "s2_scenes": 0,
+     "ruler": 0,
+     "photo": 0,
+     "label": "assimil\u00e9 : MODIS 6 j",
+     "label_fr": "assimil\u00e9 : MODIS 6 j \u00b7 compar\u00e9 \u00e0 658 stations officielles",
+     "label_en": "assimilated: MODIS 6 d \u00b7 checked against 658 official stations",
+     "stations_label_en": "checked against 658 official stations",
+     "stations_label_fr": "compar\u00e9 \u00e0 658 stations officielles",
+     "stations_label_it": "confrontato con 658 stazioni ufficiali",
+     "label_it": "assimilato: MODIS 6 g \u00b7 confrontato con 658 stazioni ufficiali",
+     "stations_label_de": "mit 658 offiziellen Stationen verglichen",
+     "label_de": "assimiliert: MODIS 6 T \u00b7 mit 658 offiziellen Stationen verglichen",
+     "stations_n": 658,
+     "stations_calibrated": false
+    }
+   },
+   {
+    "date": "2026-10-26",
+    "kind": "analysis",
+    "png": "snow_alps_1km_20261026.png",
+    "val": "snowval_alps_1km_20261026.png",
+    "val16": "snowval16_alps_1km_20261026.png",
+    "new24": "new24_alps_1km_20261026.png",
+    "new24val": "new24val_alps_1km_20261026.png",
+    "new72": "new72_alps_1km_20261026.png",
+    "new72val": "new72val_alps_1km_20261026.png",
+    "assimilated": true,
+    "obs": {
+     "modis_days": 6,
+     "s2_scenes": 0,
+     "ruler": 0,
+     "photo": 0,
+     "label": "assimil\u00e9 : MODIS 6 j",
+     "label_fr": "assimil\u00e9 : MODIS 6 j \u00b7 compar\u00e9 \u00e0 629 stations officielles",
+     "label_en": "assimilated: MODIS 6 d \u00b7 checked against 629 official stations",
+     "stations_label_en": "checked against 629 official stations",
+     "stations_label_fr": "compar\u00e9 \u00e0 629 stations officielles",
+     "stations_label_it": "confrontato con 629 stazioni ufficiali",
+     "label_it": "assimilato: MODIS 6 g \u00b7 confrontato con 629 stazioni ufficiali",
+     "stations_label_de": "mit 629 offiziellen Stationen verglichen",
+     "label_de": "assimiliert: MODIS 6 T \u00b7 mit 629 offiziellen Stationen verglichen",
+     "stations_n": 629,
+     "stations_calibrated": false
+    }
+   },
+   {
+    "date": "2026-10-27",
+    "kind": "analysis",
+    "png": "snow_alps_1km_20261027.png",
+    "val": "snowval_alps_1km_20261027.png",
+    "val16": "snowval16_alps_1km_20261027.png",
+    "new24": "new24_alps_1km_20261027.png",
+    "new24val": "new24val_alps_1km_20261027.png",
+    "new72": "new72_alps_1km_20261027.png",
+    "new72val": "new72val_alps_1km_20261027.png",
+    "assimilated": true,
+    "obs": {
+     "modis_days": 6,
+     "s2_scenes": 0,
+     "ruler": 0,
+     "photo": 0,
+     "label": "assimil\u00e9 : MODIS 6 j",
+     "label_fr": "assimil\u00e9 : MODIS 6 j \u00b7 compar\u00e9 \u00e0 616 stations officielles",
+     "label_en": "assimilated: MODIS 6 d \u00b7 checked against 616 official stations",
+     "stations_label_en": "checked against 616 official stations",
+     "stations_label_fr": "compar\u00e9 \u00e0 616 stations officielles",
+     "stations_label_it": "confrontato con 616 stazioni ufficiali",
+     "label_it": "assimilato: MODIS 6 g \u00b7 confrontato con 616 stazioni ufficiali",
+     "stations_label_de": "mit 616 offiziellen Stationen verglichen",
+     "label_de": "assimiliert: MODIS 6 T \u00b7 mit 616 offiziellen Stationen verglichen",
+     "stations_n": 616,
+     "stations_calibrated": false
+    }
+   },
+   {
+    "date": "2026-10-28",
+    "kind": "analysis",
+    "png": "snow_alps_1km_20261028.png",
+    "val": "snowval_alps_1km_20261028.png",
+    "val16": "snowval16_alps_1km_20261028.png",
+    "new24": "new24_alps_1km_20261028.png",
+    "new24val": "new24val_alps_1km_20261028.png",
+    "new72": "new72_alps_1km_20261028.png",
+    "new72val": "new72val_alps_1km_20261028.png",
+    "assimilated": true,
+    "obs": {
+     "modis_days": 6,
+     "s2_scenes": 0,
+     "ruler": 0,
+     "photo": 0,
+     "label": "assimil\u00e9 : MODIS 6 j",
+     "label_fr": "assimil\u00e9 : MODIS 6 j \u00b7 compar\u00e9 \u00e0 548 stations officielles",
+     "label_en": "assimilated: MODIS 6 d \u00b7 checked against 548 official stations",
+     "stations_label_en": "checked against 548 official stations",
+     "stations_label_fr": "compar\u00e9 \u00e0 548 stations officielles",
+     "stations_label_it": "confrontato con 548 stazioni ufficiali",
+     "label_it": "assimilato: MODIS 6 g \u00b7 confrontato con 548 stazioni ufficiali",
+     "stations_label_de": "mit 548 offiziellen Stationen verglichen",
+     "label_de": "assimiliert: MODIS 6 T \u00b7 mit 548 offiziellen Stationen verglichen",
+     "stations_n": 548,
+     "stations_calibrated": false
+    }
+   },
+   {
+    "date": "2026-10-29",
+    "kind": "forecast",
+    "png": "snow_alps_1km_20261029.png",
+    "val": "snowval_alps_1km_20261029.png",
+    "val16": "snowval16_alps_1km_20261029.png",
+    "new24": "new24_alps_1km_20261029.png",
+    "new24val": "new24val_alps_1km_20261029.png",
+    "new72": "new72_alps_1km_20261029.png",
+    "new72val": "new72val_alps_1km_20261029.png",
+    "assimilated": true,
+    "obs": {
+     "modis_days": 6,
+     "s2_scenes": 0,
+     "ruler": 0,
+     "photo": 0,
+     "label": "assimil\u00e9 : MODIS 6 j",
+     "label_fr": "assimil\u00e9 : MODIS 6 j \u00b7 compar\u00e9 \u00e0 548 stations officielles",
+     "label_en": "assimilated: MODIS 6 d \u00b7 checked against 548 official stations",
+     "stations_label_en": "checked against 548 official stations",
+     "stations_label_fr": "compar\u00e9 \u00e0 548 stations officielles",
+     "stations_label_it": "confrontato con 548 stazioni ufficiali",
+     "label_it": "assimilato: MODIS 6 g \u00b7 confrontato con 548 stazioni ufficiali",
+     "stations_label_de": "mit 548 offiziellen Stationen verglichen",
+     "label_de": "assimiliert: MODIS 6 T \u00b7 mit 548 offiziellen Stationen verglichen",
+     "stations_n": 548,
+     "stations_calibrated": false
+    }
+   },
+   {
+    "date": "2026-10-30",
+    "kind": "forecast",
+    "png": "snow_alps_1km_20261030.png",
+    "val": "snowval_alps_1km_20261030.png",
+    "val16": "snowval16_alps_1km_20261030.png",
+    "new24": "new24_alps_1km_20261030.png",
+    "new24val": "new24val_alps_1km_20261030.png",
+    "new72": "new72_alps_1km_20261030.png",
+    "new72val": "new72val_alps_1km_20261030.png",
+    "assimilated": true,
+    "obs": {
+     "modis_days": 6,
+     "s2_scenes": 0,
+     "ruler": 0,
+     "photo": 0,
+     "label": "assimil\u00e9 : MODIS 6 j",
+     "label_fr": "assimil\u00e9 : MODIS 6 j \u00b7 compar\u00e9 \u00e0 548 stations officielles",
+     "label_en": "assimilated: MODIS 6 d \u00b7 checked against 548 official stations",
+     "stations_label_en": "checked against 548 official stations",
+     "stations_label_fr": "compar\u00e9 \u00e0 548 stations officielles",
+     "stations_label_it": "confrontato con 548 stazioni ufficiali",
+     "label_it": "assimilato: MODIS 6 g \u00b7 confrontato con 548 stazioni ufficiali",
+     "stations_label_de": "mit 548 offiziellen Stationen verglichen",
+     "label_de": "assimiliert: MODIS 6 T \u00b7 mit 548 offiziellen Stationen verglichen",
+     "stations_n": 548,
+     "stations_calibrated": false
+    }
+   },
+   {
+    "date": "2026-10-31",
+    "kind": "forecast",
+    "png": "snow_alps_1km_20261031.png",
+    "val": "snowval_alps_1km_20261031.png",
+    "val16": "snowval16_alps_1km_20261031.png",
+    "new24": "new24_alps_1km_20261031.png",
+    "new24val": "new24val_alps_1km_20261031.png",
+    "new72": "new72_alps_1km_20261031.png",
+    "new72val": "new72val_alps_1km_20261031.png",
+    "assimilated": true,
+    "obs": {
+     "modis_days": 6,
+     "s2_scenes": 0,
+     "ruler": 0,
+     "photo": 0,
+     "label": "assimil\u00e9 : MODIS 6 j",
+     "label_fr": "assimil\u00e9 : MODIS 6 j \u00b7 compar\u00e9 \u00e0 548 stations officielles",
+     "label_en": "assimilated: MODIS 6 d \u00b7 checked against 548 official stations",
+     "stations_label_en": "checked against 548 official stations",
+     "stations_label_fr": "compar\u00e9 \u00e0 548 stations officielles",
+     "stations_label_it": "confrontato con 548 stazioni ufficiali",
+     "label_it": "assimilato: MODIS 6 g \u00b7 confrontato con 548 stazioni ufficiali",
+     "stations_label_de": "mit 548 offiziellen Stationen verglichen",
+     "label_de": "assimiliert: MODIS 6 T \u00b7 mit 548 offiziellen Stationen verglichen",
+     "stations_n": 548,
+     "stations_calibrated": false
+    }
+   },
+   {
+    "date": "2026-11-01",
+    "kind": "forecast",
+    "png": "snow_alps_1km_20261101.png",
+    "val": "snowval_alps_1km_20261101.png",
+    "val16": "snowval16_alps_1km_20261101.png",
+    "new24": "new24_alps_1km_20261101.png",
+    "new24val": "new24val_alps_1km_20261101.png",
+    "new72": "new72_alps_1km_20261101.png",
+    "new72val": "new72val_alps_1km_20261101.png",
+    "assimilated": true,
+    "obs": {
+     "modis_days": 6,
+     "s2_scenes": 0,
+     "ruler": 0,
+     "photo": 0,
+     "label": "assimil\u00e9 : MODIS 6 j",
+     "label_fr": "assimil\u00e9 : MODIS 6 j \u00b7 compar\u00e9 \u00e0 548 stations officielles",
+     "label_en": "assimilated: MODIS 6 d \u00b7 checked against 548 official stations",
+     "stations_label_en": "checked against 548 official stations",
+     "stations_label_fr": "compar\u00e9 \u00e0 548 stations officielles",
+     "stations_label_it": "confrontato con 548 stazioni ufficiali",
+     "label_it": "assimilato: MODIS 6 g \u00b7 confrontato con 548 stazioni ufficiali",
+     "stations_label_de": "mit 548 offiziellen Stationen verglichen",
+     "label_de": "assimiliert: MODIS 6 T \u00b7 mit 548 offiziellen Stationen verglichen",
+     "stations_n": 548,
+     "stations_calibrated": false
+    }
+   },
+   {
+    "date": "2026-11-02",
+    "kind": "forecast",
+    "png": "snow_alps_1km_20261102.png",
+    "val": "snowval_alps_1km_20261102.png",
+    "val16": "snowval16_alps_1km_20261102.png",
+    "new24": "new24_alps_1km_20261102.png",
+    "new24val": "new24val_alps_1km_20261102.png",
+    "new72": "new72_alps_1km_20261102.png",
+    "new72val": "new72val_alps_1km_20261102.png",
+    "assimilated": true,
+    "obs": {
+     "modis_days": 6,
+     "s2_scenes": 0,
+     "ruler": 0,
+     "photo": 0,
+     "label": "assimil\u00e9 : MODIS 6 j",
+     "label_fr": "assimil\u00e9 : MODIS 6 j \u00b7 compar\u00e9 \u00e0 548 stations officielles",
+     "label_en": "assimilated: MODIS 6 d \u00b7 checked against 548 official stations",
+     "stations_label_en": "checked against 548 official stations",
+     "stations_label_fr": "compar\u00e9 \u00e0 548 stations officielles",
+     "stations_label_it": "confrontato con 548 stazioni ufficiali",
+     "label_it": "assimilato: MODIS 6 g \u00b7 confrontato con 548 stazioni ufficiali",
+     "stations_label_de": "mit 548 offiziellen Stationen verglichen",
+     "label_de": "assimiliert: MODIS 6 T \u00b7 mit 548 offiziellen Stationen verglichen",
+     "stations_n": 548,
+     "stations_calibrated": false
+    }
+   },
+   {
+    "date": "2026-11-03",
+    "kind": "forecast",
+    "png": "snow_alps_1km_20261103.png",
+    "val": "snowval_alps_1km_20261103.png",
+    "val16": "snowval16_alps_1km_20261103.png",
+    "new24": "new24_alps_1km_20261103.png",
+    "new24val": "new24val_alps_1km_20261103.png",
+    "new72": "new72_alps_1km_20261103.png",
+    "new72val": "new72val_alps_1km_20261103.png",
+    "assimilated": true,
+    "obs": {
+     "modis_days": 6,
+     "s2_scenes": 0,
+     "ruler": 0,
+     "photo": 0,
+     "label": "assimil\u00e9 : MODIS 6 j",
+     "label_fr": "assimil\u00e9 : MODIS 6 j \u00b7 compar\u00e9 \u00e0 548 stations officielles",
+     "label_en": "assimilated: MODIS 6 d \u00b7 checked against 548 official stations",
+     "stations_label_en": "checked against 548 official stations",
+     "stations_label_fr": "compar\u00e9 \u00e0 548 stations officielles",
+     "stations_label_it": "confrontato con 548 stazioni ufficiali",
+     "label_it": "assimilato: MODIS 6 g \u00b7 confrontato con 548 stazioni ufficiali",
+     "stations_label_de": "mit 548 offiziellen Stationen verglichen",
+     "label_de": "assimiliert: MODIS 6 T \u00b7 mit 548 offiziellen Stationen verglichen",
+     "stations_n": 548,
+     "stations_calibrated": false
+    }
+   },
+   {
+    "date": "2026-11-04",
+    "kind": "forecast",
+    "png": "snow_alps_1km_20261104.png",
+    "val": "snowval_alps_1km_20261104.png",
+    "val16": "snowval16_alps_1km_20261104.png",
+    "new24": "new24_alps_1km_20261104.png",
+    "new24val": "new24val_alps_1km_20261104.png",
+    "new72": "new72_alps_1km_20261104.png",
+    "new72val": "new72val_alps_1km_20261104.png",
+    "assimilated": true,
+    "obs": {
+     "modis_days": 6,
+     "s2_scenes": 0,
+     "ruler": 0,
+     "photo": 0,
+     "label": "assimil\u00e9 : MODIS 6 j",
+     "label_fr": "assimil\u00e9 : MODIS 6 j \u00b7 compar\u00e9 \u00e0 548 stations officielles",
+     "label_en": "assimilated: MODIS 6 d \u00b7 checked against 548 official stations",
+     "stations_label_en": "checked against 548 official stations",
+     "stations_label_fr": "compar\u00e9 \u00e0 548 stations officielles",
+     "stations_label_it": "confrontato con 548 stazioni ufficiali",
+     "label_it": "assimilato: MODIS 6 g \u00b7 confrontato con 548 stazioni ufficiali",
+     "stations_label_de": "mit 548 offiziellen Stationen verglichen",
+     "label_de": "assimiliert: MODIS 6 T \u00b7 mit 548 offiziellen Stationen verglichen",
+     "stations_n": 548,
+     "stations_calibrated": false
+    }
+   },
+   {
+    "date": "2026-11-05",
+    "kind": "forecast",
+    "png": "snow_alps_1km_20261105.png",
+    "val": "snowval_alps_1km_20261105.png",
+    "val16": "snowval16_alps_1km_20261105.png",
+    "new24": "new24_alps_1km_20261105.png",
+    "new24val": "new24val_alps_1km_20261105.png",
+    "new72": "new72_alps_1km_20261105.png",
+    "new72val": "new72val_alps_1km_20261105.png",
+    "assimilated": true,
+    "obs": {
+     "modis_days": 6,
+     "s2_scenes": 0,
+     "ruler": 0,
+     "photo": 0,
+     "label": "assimil\u00e9 : MODIS 6 j",
+     "label_fr": "assimil\u00e9 : MODIS 6 j \u00b7 compar\u00e9 \u00e0 548 stations officielles",
+     "label_en": "assimilated: MODIS 6 d \u00b7 checked against 548 official stations",
+     "stations_label_en": "checked against 548 official stations",
+     "stations_label_fr": "compar\u00e9 \u00e0 548 stations officielles",
+     "stations_label_it": "confrontato con 548 stazioni ufficiali",
+     "label_it": "assimilato: MODIS 6 g \u00b7 confrontato con 548 stazioni ufficiali",
+     "stations_label_de": "mit 548 offiziellen Stationen verglichen",
+     "label_de": "assimiliert: MODIS 6 T \u00b7 mit 548 offiziellen Stationen verglichen",
+     "stations_n": 548,
+     "stations_calibrated": false
+    }
+   }
+  ],
+  "cellelev": "cellelev_alps_1km.png",
+  "encodings": {
+   "val": "8-bit grey, depth cm, 255 = >= 255 cm (kept for app 1.0)",
+   "val16": "16-bit grey, depth cm (no cap)",
+   "new24val": "8-bit grey, new snow of that day cm",
+   "new72val": "8-bit grey, new snow of that day + 2 previous days cm",
+   "cellelev": "16-bit grey, 1 km cell-mean elevation m (0 = outside)",
+   "new_palette": [
+    [
+     1,
+     "#E8F4FF"
+    ],
+    [
+     5,
+     "#B9DCFF"
+    ],
+    [
+     10,
+     "#7FB6F5"
+    ],
+    [
+     20,
+     "#5B7FE6"
+    ],
+    [
+     30,
+     "#6A55D6"
+    ],
+    [
+     50,
+     "#8E3FC2"
+    ],
+    [
+     80,
+     "#B0289E"
+    ],
+    [
+     120,
+     "#D21F6E"
+    ]
+   ]
+  }
+ },
+ "ski_spots": "ski_spots.geojson",
+ "trails": "trails_alps.geojson",
+ "pistes": "pistes_alps.geojson",
+ "ski_resorts": "ski_resorts_alps.geojson",
+ "pistes_tiles": {
+  "step_deg": 0.5,
+  "source": "OpenSkiMap (openskimap.org), data (c) OpenStreetMap contributors, ODbL",
+  "tiles": [
+   {
+    "id": "n4350e00450",
+    "bounds": [
+     [
+      43.5,
+      4.5
+     ],
+     [
+      44.0,
+      5.0
+     ]
+    ],
+    "file": "pistes_n4350e00450.geojson",
+    "bytes": 372,
+    "n": 2
+   },
+   {
+    "id": "n4350e00550",
+    "bounds": [
+     [
+      43.5,
+      5.5
+     ],
+     [
+      44.0,
+      6.0
+     ]
+    ],
+    "file": "pistes_n4350e00550.geojson",
+    "bytes": 281,
+    "n": 1
+   },
+   {
+    "id": "n4350e00650",
+    "bounds": [
+     [
+      43.5,
+      6.5
+     ],
+     [
+      44.0,
+      7.0
+     ]
+    ],
+    "file": "pistes_n4350e00650.geojson",
+    "bytes": 29805,
+    "n": 94
+   },
+   {
+    "id": "n4350e00700",
+    "bounds": [
+     [
+      43.5,
+      7.0
+     ],
+     [
+      44.0,
+      7.5
+     ]
+    ],
+    "file": "pistes_n4350e00700.geojson",
+    "bytes": 2897,
+    "n": 13
+   },
+   {
+    "id": "n4350e00800",
+    "bounds": [
+     [
+      43.5,
+      8.0
+     ],
+     [
+      44.0,
+      8.5
+     ]
+    ],
+    "file": "pistes_n4350e00800.geojson",
+    "bytes": 1033,
+    "n": 6
+   },
+   {
+    "id": "n4350e01000",
+    "bounds": [
+     [
+      43.5,
+      10.0
+     ],
+     [
+      44.0,
+      10.5
+     ]
+    ],
+    "file": "pistes_n4350e01000.geojson",
+    "bytes": 1040,
+    "n": 5
+   },
+   {
+    "id": "n4350e01050",
+    "bounds": [
+     [
+      43.5,
+      10.5
+     ],
+     [
+      44.0,
+      11.0
+     ]
+    ],
+    "file": "pistes_n4350e01050.geojson",
+    "bytes": 1617,
+    "n": 8
+   },
+   {
+    "id": "n4350e01100",
+    "bounds": [
+     [
+      43.5,
+      11.0
+     ],
+     [
+      44.0,
+      11.5
+     ]
+    ],
+    "file": "pistes_n4350e01100.geojson",
+    "bytes": 208,
+    "n": 1
+   },
+   {
+    "id": "n4350e01150",
+    "bounds": [
+     [
+      43.5,
+      11.5
+     ],
+     [
+      44.0,
+      12.0
+     ]
+    ],
+    "file": "pistes_n4350e01150.geojson",
+    "bytes": 1929,
+    "n": 6
+   },
+   {
+    "id": "n4350e01200",
+    "bounds": [
+     [
+      43.5,
+      12.0
+     ],
+     [
+      44.0,
+      12.5
+     ]
+    ],
+    "file": "pistes_n4350e01200.geojson",
+    "bytes": 3255,
+    "n": 14
+   },
+   {
+    "id": "n4400e00450",
+    "bounds": [
+     [
+      44.0,
+      4.5
+     ],
+     [
+      44.5,
+      5.0
+     ]
+    ],
+    "file": "pistes_n4400e00450.geojson",
+    "bytes": 877,
+    "n": 4
+   },
+   {
+    "id": "n4400e00500",
+    "bounds": [
+     [
+      44.0,
+      5.0
+     ],
+     [
+      44.5,
+      5.5
+     ]
+    ],
+    "file": "pistes_n4400e00500.geojson",
+    "bytes": 14089,
+    "n": 50
+   },
+   {
+    "id": "n4400e00550",
+    "bounds": [
+     [
+      44.0,
+      5.5
+     ],
+     [
+      44.5,
+      6.0
+     ]
+    ],
+    "file": "pistes_n4400e00550.geojson",
+    "bytes": 1182,
+    "n": 5
+   },
+   {
+    "id": "n4400e00600",
+    "bounds": [
+     [
+      44.0,
+      6.0
+     ],
+     [
+      44.5,
+      6.5
+     ]
+    ],
+    "file": "pistes_n4400e00600.geojson",
+    "bytes": 41376,
+    "n": 127
+   },
+   {
+    "id": "n4400e00650",
+    "bounds": [
+     [
+      44.0,
+      6.5
+     ],
+     [
+      44.5,
+      7.0
+     ]
+    ],
+    "file": "pistes_n4400e00650.geojson",
+    "bytes": 402448,
+    "n": 1257
+   },
+   {
+    "id": "n4400e00700",
+    "bounds": [
+     [
+      44.0,
+      7.0
+     ],
+     [
+      44.5,
+      7.5
+     ]
+    ],
+    "file": "pistes_n4400e00700.geojson",
+    "bytes": 79342,
+    "n": 241
+   },
+   {
+    "id": "n4400e00750",
+    "bounds": [
+     [
+      44.0,
+      7.5
+     ],
+     [
+      44.5,
+      8.0
+     ]
+    ],
+    "file": "pistes_n4400e00750.geojson",
+    "bytes": 115467,
+    "n": 375
+   },
+   {
+    "id": "n4400e00800",
+    "bounds": [
+     [
+      44.0,
+      8.0
+     ],
+     [
+      44.5,
+      8.5
+     ]
+    ],
+    "file": "pistes_n4400e00800.geojson",
+    "bytes": 207,
+    "n": 1
+   },
+   {
+    "id": "n4400e00850",
+    "bounds": [
+     [
+      44.0,
+      8.5
+     ],
+     [
+      44.5,
+      9.0
+     ]
+    ],
+    "file": "pistes_n4400e00850.geojson",
+    "bytes": 4989,
+    "n": 27
+   },
+   {
+    "id": "n4400e00900",
+    "bounds": [
+     [
+      44.0,
+      9.0
+     ],
+     [
+      44.5,
+      9.5
+     ]
+    ],
+    "file": "pistes_n4400e00900.geojson",
+    "bytes": 398,
+    "n": 2
+   },
+   {
+    "id": "n4400e00950",
+    "bounds": [
+     [
+      44.0,
+      9.5
+     ],
+     [
+      44.5,
+      10.0
+     ]
+    ],
+    "file": "pistes_n4400e00950.geojson",
+    "bytes": 3999,
+    "n": 14
+   },
+   {
+    "id": "n4400e01000",
+    "bounds": [
+     [
+      44.0,
+      10.0
+     ],
+     [
+      44.5,
+      10.5
+     ]
+    ],
+    "file": "pistes_n4400e01000.geojson",
+    "bytes": 47901,
+    "n": 139
+   },
+   {
+    "id": "n4400e01050",
+    "bounds": [
+     [
+      44.0,
+      10.5
+     ],
+     [
+      44.5,
+      11.0
+     ]
+    ],
+    "file": "pistes_n4400e01050.geojson",
+    "bytes": 107813,
+    "n": 330
+   },
+   {
+    "id": "n4400e01600",
+    "bounds": [
+     [
+      44.0,
+      16.0
+     ],
+     [
+      44.5,
+      16.5
+     ]
+    ],
+    "file": "pistes_n4400e01600.geojson",
+    "bytes": 1090,
+    "n": 3
+   },
+   {
+    "id": "n4450e00450",
+    "bounds": [
+     [
+      44.5,
+      4.5
+     ],
+     [
+      45.0,
+      5.0
+     ]
+    ],
+    "file": "pistes_n4450e00450.geojson",
+    "bytes": 447,
+    "n": 2
+   },
+   {
+    "id": "n4450e00500",
+    "bounds": [
+     [
+      44.5,
+      5.0
+     ],
+     [
+      45.0,
+      5.5
+     ]
+    ],
+    "file": "pistes_n4450e00500.geojson",
+    "bytes": 70809,
+    "n": 212
+   },
+   {
+    "id": "n4450e00550",
+    "bounds": [
+     [
+      44.5,
+      5.5
+     ],
+     [
+      45.0,
+      6.0
+     ]
+    ],
+    "file": "pistes_n4450e00550.geojson",
+    "bytes": 78058,
+    "n": 251
+   },
+   {
+    "id": "n4450e00600",
+    "bounds": [
+     [
+      44.5,
+      6.0
+     ],
+     [
+      45.0,
+      6.5
+     ]
+    ],
+    "file": "pistes_n4450e00600.geojson",
+    "bytes": 256883,
+    "n": 828
+   },
+   {
+    "id": "n4450e00650",
+    "bounds": [
+     [
+      44.5,
+      6.5
+     ],
+     [
+      45.0,
+      7.0
+     ]
+    ],
+    "file": "pistes_n4450e00650.geojson",
+    "bytes": 742644,
+    "n": 2201
+   },
+   {
+    "id": "n4450e00700",
+    "bounds": [
+     [
+      44.5,
+      7.0
+     ],
+     [
+      45.0,
+      7.5
+     ]
+    ],
+    "file": "pistes_n4450e00700.geojson",
+    "bytes": 30303,
+    "n": 94
+   },
+   {
+    "id": "n4450e00800",
+    "bounds": [
+     [
+      44.5,
+      8.0
+     ],
+     [
+      45.0,
+      8.5
+     ]
+    ],
+    "file": "pistes_n4450e00800.geojson",
+    "bytes": 214,
+    "n": 1
+   },
+   {
+    "id": "n4450e00900",
+    "bounds": [
+     [
+      44.5,
+      9.0
+     ],
+     [
+      45.0,
+      9.5
+     ]
+    ],
+    "file": "pistes_n4450e00900.geojson",
+    "bytes": 10954,
+    "n": 34
+   },
+   {
+    "id": "n4450e01350",
+    "bounds": [
+     [
+      44.5,
+      13.5
+     ],
+     [
+      45.0,
+      14.0
+     ]
+    ],
+    "file": "pistes_n4450e01350.geojson",
+    "bytes": 455,
+    "n": 2
+   },
+   {
+    "id": "n4450e01500",
+    "bounds": [
+     [
+      44.5,
+      15.0
+     ],
+     [
+      45.0,
+      15.5
+     ]
+    ],
+    "file": "pistes_n4450e01500.geojson",
+    "bytes": 2099,
+    "n": 8
+   },
+   {
+    "id": "n4450e01550",
+    "bounds": [
+     [
+      44.5,
+      15.5
+     ],
+     [
+      45.0,
+      16.0
+     ]
+    ],
+    "file": "pistes_n4450e01550.geojson",
+    "bytes": 821,
+    "n": 3
+   },
+   {
+    "id": "n4500e00450",
+    "bounds": [
+     [
+      45.0,
+      4.5
+     ],
+     [
+      45.5,
+      5.0
+     ]
+    ],
+    "file": "pistes_n4500e00450.geojson",
+    "bytes": 465,
+    "n": 2
+   },
+   {
+    "id": "n4500e00500",
+    "bounds": [
+     [
+      45.0,
+      5.0
+     ],
+     [
+      45.5,
+      5.5
+     ]
+    ],
+    "file": "pistes_n4500e00500.geojson",
+    "bytes": 38034,
+    "n": 103
+   },
+   {
+    "id": "n4500e00550",
+    "bounds": [
+     [
+      45.0,
+      5.5
+     ],
+     [
+      45.5,
+      6.0
+     ]
+    ],
+    "file": "pistes_n4500e00550.geojson",
+    "bytes": 390690,
+    "n": 1196
+   },
+   {
+    "id": "n4500e00600",
+    "bounds": [
+     [
+      45.0,
+      6.0
+     ],
+     [
+      45.5,
+      6.5
+     ]
+    ],
+    "file": "pistes_n4500e00600.geojson",
+    "bytes": 691931,
+    "n": 2228
+   },
+   {
+    "id": "n4500e00650",
+    "bounds": [
+     [
+      45.0,
+      6.5
+     ],
+     [
+      45.5,
+      7.0
+     ]
+    ],
+    "file": "pistes_n4500e00650.geojson",
+    "bytes": 1152371,
+    "n": 3425
+   },
+   {
+    "id": "n4500e00700",
+    "bounds": [
+     [
+      45.0,
+      7.0
+     ],
+     [
+      45.5,
+      7.5
+     ]
+    ],
+    "file": "pistes_n4500e00700.geojson",
+    "bytes": 114733,
+    "n": 371
+   },
+   {
+    "id": "n4500e00750",
+    "bounds": [
+     [
+      45.0,
+      7.5
+     ],
+     [
+      45.5,
+      8.0
+     ]
+    ],
+    "file": "pistes_n4500e00750.geojson",
+    "bytes": 777,
+    "n": 4
+   },
+   {
+    "id": "n4500e00900",
+    "bounds": [
+     [
+      45.0,
+      9.0
+     ],
+     [
+      45.5,
+      9.5
+     ]
+    ],
+    "file": "pistes_n4500e00900.geojson",
+    "bytes": 632,
+    "n": 3
+   },
+   {
+    "id": "n4500e01100",
+    "bounds": [
+     [
+      45.0,
+      11.0
+     ],
+     [
+      45.5,
+      11.5
+     ]
+    ],
+    "file": "pistes_n4500e01100.geojson",
+    "bytes": 632,
+    "n": 3
+   },
+   {
+    "id": "n4500e01200",
+    "bounds": [
+     [
+      45.0,
+      12.0
+     ],
+     [
+      45.5,
+      12.5
+     ]
+    ],
+    "file": "pistes_n4500e01200.geojson",
+    "bytes": 804,
+    "n": 4
+   },
+   {
+    "id": "n4500e01350",
+    "bounds": [
+     [
+      45.0,
+      13.5
+     ],
+     [
+      45.5,
+      14.0
+     ]
+    ],
+    "file": "pistes_n4500e01350.geojson",
+    "bytes": 445,
+    "n": 2
+   },
+   {
+    "id": "n4500e01450",
+    "bounds": [
+     [
+      45.0,
+      14.5
+     ],
+     [
+      45.5,
+      15.0
+     ]
+    ],
+    "file": "pistes_n4500e01450.geojson",
+    "bytes": 20856,
+    "n": 74
+   },
+   {
+    "id": "n4500e01500",
+    "bounds": [
+     [
+      45.0,
+      15.0
+     ],
+     [
+      45.5,
+      15.5
+     ]
+    ],
+    "file": "pistes_n4500e01500.geojson",
+    "bytes": 2858,
+    "n": 11
+   },
+   {
+    "id": "n4500e01600",
+    "bounds": [
+     [
+      45.0,
+      16.0
+     ],
+     [
+      45.5,
+      16.5
+     ]
+    ],
+    "file": "pistes_n4500e01600.geojson",
+    "bytes": 477,
+    "n": 2
+   },
+   {
+    "id": "n4550e00450",
+    "bounds": [
+     [
+      45.5,
+      4.5
+     ],
+     [
+      46.0,
+      5.0
+     ]
+    ],
+    "file": "pistes_n4550e00450.geojson",
+    "bytes": 3347,
+    "n": 19
+   },
+   {
+    "id": "n4550e00550",
+    "bounds": [
+     [
+      45.5,
+      5.5
+     ],
+     [
+      46.0,
+      6.0
+     ]
+    ],
+    "file": "pistes_n4550e00550.geojson",
+    "bytes": 88037,
+    "n": 272
+   },
+   {
+    "id": "n4550e00600",
+    "bounds": [
+     [
+      45.5,
+      6.0
+     ],
+     [
+      46.0,
+      6.5
+     ]
+    ],
+    "file": "pistes_n4550e00600.geojson",
+    "bytes": 235427,
+    "n": 735
+   },
+   {
+    "id": "n4550e00650",
+    "bounds": [
+     [
+      45.5,
+      6.5
+     ],
+     [
+      46.0,
+      7.0
+     ]
+    ],
+    "file": "pistes_n4550e00650.geojson",
+    "bytes": 1269289,
+    "n": 3905
+   },
+   {
+    "id": "n4550e00700",
+    "bounds": [
+     [
+      45.5,
+      7.0
+     ],
+     [
+      46.0,
+      7.5
+     ]
+    ],
+    "file": "pistes_n4550e00700.geojson",
+    "bytes": 197209,
+    "n": 553
+   },
+   {
+    "id": "n4550e00750",
+    "bounds": [
+     [
+      45.5,
+      7.5
+     ],
+     [
+      46.0,
+      8.0
+     ]
+    ],
+    "file": "pistes_n4550e00750.geojson",
+    "bytes": 337876,
+    "n": 1028
+   },
+   {
+    "id": "n4550e00800",
+    "bounds": [
+     [
+      45.5,
+      8.0
+     ],
+     [
+      46.0,
+      8.5
+     ]
+    ],
+    "file": "pistes_n4550e00800.geojson",
+    "bytes": 39274,
+    "n": 129
+   },
+   {
+    "id": "n4550e00850",
+    "bounds": [
+     [
+      45.5,
+      8.5
+     ],
+     [
+      46.0,
+      9.0
+     ]
+    ],
+    "file": "pistes_n4550e00850.geojson",
+    "bytes": 5026,
+    "n": 24
+   },
+   {
+    "id": "n4550e00900",
+    "bounds": [
+     [
+      45.5,
+      9.0
+     ],
+     [
+      46.0,
+      9.5
+     ]
+    ],
+    "file": "pistes_n4550e00900.geojson",
+    "bytes": 20905,
+    "n": 71
+   },
+   {
+    "id": "n4550e00950",
+    "bounds": [
+     [
+      45.5,
+      9.5
+     ],
+     [
+      46.0,
+      10.0
+     ]
+    ],
+    "file": "pistes_n4550e00950.geojson",
+    "bytes": 30777,
+    "n": 108
+   },
+   {
+    "id": "n4550e01000",
+    "bounds": [
+     [
+      45.5,
+      10.0
+     ],
+     [
+      46.0,
+      10.5
+     ]
+    ],
+    "file": "pistes_n4550e01000.geojson",
+    "bytes": 53722,
+    "n": 165
+   },
+   {
+    "id": "n4550e01050",
+    "bounds": [
+     [
+      45.5,
+      10.5
+     ],
+     [
+      46.0,
+      11.0
+     ]
+    ],
+    "file": "pistes_n4550e01050.geojson",
+    "bytes": 21812,
+    "n": 75
+   },
+   {
+    "id": "n4550e01100",
+    "bounds": [
+     [
+      45.5,
+      11.0
+     ],
+     [
+      46.0,
+      11.5
+     ]
+    ],
+    "file": "pistes_n4550e01100.geojson",
+    "bytes": 107800,
+    "n": 324
+   },
+   {
+    "id": "n4550e01150",
+    "bounds": [
+     [
+      45.5,
+      11.5
+     ],
+     [
+      46.0,
+      12.0
+     ]
+    ],
+    "file": "pistes_n4550e01150.geojson",
+    "bytes": 71336,
+    "n": 167
+   },
+   {
+    "id": "n4550e01200",
+    "bounds": [
+     [
+      45.5,
+      12.0
+     ],
+     [
+      46.0,
+      12.5
+     ]
+    ],
+    "file": "pistes_n4550e01200.geojson",
+    "bytes": 544,
+    "n": 3
+   },
+   {
+    "id": "n4550e01350",
+    "bounds": [
+     [
+      45.5,
+      13.5
+     ],
+     [
+      46.0,
+      14.0
+     ]
+    ],
+    "file": "pistes_n4550e01350.geojson",
+    "bytes": 974,
+    "n": 4
+   },
+   {
+    "id": "n4550e01400",
+    "bounds": [
+     [
+      45.5,
+      14.0
+     ],
+     [
+      46.0,
+      14.5
+     ]
+    ],
+    "file": "pistes_n4550e01400.geojson",
+    "bytes": 2815,
+    "n": 15
+   },
+   {
+    "id": "n4550e01450",
+    "bounds": [
+     [
+      45.5,
+      14.5
+     ],
+     [
+      46.0,
+      15.0
+     ]
+    ],
+    "file": "pistes_n4550e01450.geojson",
+    "bytes": 8383,
+    "n": 19
+   },
+   {
+    "id": "n4550e01500",
+    "bounds": [
+     [
+      45.5,
+      15.0
+     ],
+     [
+      46.0,
+      15.5
+     ]
+    ],
+    "file": "pistes_n4550e01500.geojson",
+    "bytes": 4111,
+    "n": 15
+   },
+   {
+    "id": "n4550e01550",
+    "bounds": [
+     [
+      45.5,
+      15.5
+     ],
+     [
+      46.0,
+      16.0
+     ]
+    ],
+    "file": "pistes_n4550e01550.geojson",
+    "bytes": 4884,
+    "n": 19
+   },
+   {
+    "id": "n4600e00450",
+    "bounds": [
+     [
+      46.0,
+      4.5
+     ],
+     [
+      46.5,
+      5.0
+     ]
+    ],
+    "file": "pistes_n4600e00450.geojson",
+    "bytes": 323,
+    "n": 1
+   },
+   {
+    "id": "n4600e00500",
+    "bounds": [
+     [
+      46.0,
+      5.0
+     ],
+     [
+      46.5,
+      5.5
+     ]
+    ],
+    "file": "pistes_n4600e00500.geojson",
+    "bytes": 284,
+    "n": 1
+   },
+   {
+    "id": "n4600e00550",
+    "bounds": [
+     [
+      46.0,
+      5.5
+     ],
+     [
+      46.5,
+      6.0
+     ]
+    ],
+    "file": "pistes_n4600e00550.geojson",
+    "bytes": 166334,
+    "n": 465
+   },
+   {
+    "id": "n4600e00600",
+    "bounds": [
+     [
+      46.0,
+      6.0
+     ],
+     [
+      46.5,
+      6.5
+     ]
+    ],
+    "file": "pistes_n4600e00600.geojson",
+    "bytes": 246101,
+    "n": 721
+   },
+   {
+    "id": "n4600e00650",
+    "bounds": [
+     [
+      46.0,
+      6.5
+     ],
+     [
+      46.5,
+      7.0
+     ]
+    ],
+    "file": "pistes_n4600e00650.geojson",
+    "bytes": 818661,
+    "n": 2600
+   },
+   {
+    "id": "n4600e00700",
+    "bounds": [
+     [
+      46.0,
+      7.0
+     ],
+     [
+      46.5,
+      7.5
+     ]
+    ],
+    "file": "pistes_n4600e00700.geojson",
+    "bytes": 578557,
+    "n": 1780
+   },
+   {
+    "id": "n4600e00750",
+    "bounds": [
+     [
+      46.0,
+      7.5
+     ],
+     [
+      46.5,
+      8.0
+     ]
+    ],
+    "file": "pistes_n4600e00750.geojson",
+    "bytes": 515473,
+    "n": 1627
+   },
+   {
+    "id": "n4600e00800",
+    "bounds": [
+     [
+      46.0,
+      8.0
+     ],
+     [
+      46.5,
+      8.5
+     ]
+    ],
+    "file": "pistes_n4600e00800.geojson",
+    "bytes": 204701,
+    "n": 664
+   },
+   {
+    "id": "n4600e00850",
+    "bounds": [
+     [
+      46.0,
+      8.5
+     ],
+     [
+      46.5,
+      9.0
+     ]
+    ],
+    "file": "pistes_n4600e00850.geojson",
+    "bytes": 36242,
+    "n": 150
+   },
+   {
+    "id": "n4600e00900",
+    "bounds": [
+     [
+      46.0,
+      9.0
+     ],
+     [
+      46.5,
+      9.5
+     ]
+    ],
+    "file": "pistes_n4600e00900.geojson",
+    "bytes": 56811,
+    "n": 189
+   },
+   {
+    "id": "n4600e00950",
+    "bounds": [
+     [
+      46.0,
+      9.5
+     ],
+     [
+      46.5,
+      10.0
+     ]
+    ],
+    "file": "pistes_n4600e00950.geojson",
+    "bytes": 289714,
+    "n": 817
+   },
+   {
+    "id": "n4600e01000",
+    "bounds": [
+     [
+      46.0,
+      10.0
+     ],
+     [
+      46.5,
+      10.5
+     ]
+    ],
+    "file": "pistes_n4600e01000.geojson",
+    "bytes": 155133,
+    "n": 454
+   },
+   {
+    "id": "n4600e01050",
+    "bounds": [
+     [
+      46.0,
+      10.5
+     ],
+     [
+      46.5,
+      11.0
+     ]
+    ],
+    "file": "pistes_n4600e01050.geojson",
+    "bytes": 156027,
+    "n": 505
+   },
+   {
+    "id": "n4600e01100",
+    "bounds": [
+     [
+      46.0,
+      11.0
+     ],
+     [
+      46.5,
+      11.5
+     ]
+    ],
+    "file": "pistes_n4600e01100.geojson",
+    "bytes": 95239,
+    "n": 281
+   },
+   {
+    "id": "n4600e01150",
+    "bounds": [
+     [
+      46.0,
+      11.5
+     ],
+     [
+      46.5,
+      12.0
+     ]
+    ],
+    "file": "pistes_n4600e01150.geojson",
+    "bytes": 322372,
+    "n": 981
+   },
+   {
+    "id": "n4600e01200",
+    "bounds": [
+     [
+      46.0,
+      12.0
+     ],
+     [
+      46.5,
+      12.5
+     ]
+    ],
+    "file": "pistes_n4600e01200.geojson",
+    "bytes": 67894,
+    "n": 205
+   },
+   {
+    "id": "n4600e01250",
+    "bounds": [
+     [
+      46.0,
+      12.5
+     ],
+     [
+      46.5,
+      13.0
+     ]
+    ],
+    "file": "pistes_n4600e01250.geojson",
+    "bytes": 60809,
+    "n": 198
+   },
+   {
+    "id": "n4600e01300",
+    "bounds": [
+     [
+      46.0,
+      13.0
+     ],
+     [
+      46.5,
+      13.5
+     ]
+    ],
+    "file": "pistes_n4600e01300.geojson",
+    "bytes": 25364,
+    "n": 69
+   },
+   {
+    "id": "n4600e01350",
+    "bounds": [
+     [
+      46.0,
+      13.5
+     ],
+     [
+      46.5,
+      14.0
+     ]
+    ],
+    "file": "pistes_n4600e01350.geojson",
+    "bytes": 132615,
+    "n": 381
+   },
+   {
+    "id": "n4600e01400",
+    "bounds": [
+     [
+      46.0,
+      14.0
+     ],
+     [
+      46.5,
+      14.5
+     ]
+    ],
+    "file": "pistes_n4600e01400.geojson",
+    "bytes": 32562,
+    "n": 114
+   },
+   {
+    "id": "n4600e01450",
+    "bounds": [
+     [
+      46.0,
+      14.5
+     ],
+     [
+      46.5,
+      15.0
+     ]
+    ],
+    "file": "pistes_n4600e01450.geojson",
+    "bytes": 43690,
+    "n": 141
+   },
+   {
+    "id": "n4600e01500",
+    "bounds": [
+     [
+      46.0,
+      15.0
+     ],
+     [
+      46.5,
+      15.5
+     ]
+    ],
+    "file": "pistes_n4600e01500.geojson",
+    "bytes": 22656,
+    "n": 81
+   },
+   {
+    "id": "n4600e01550",
+    "bounds": [
+     [
+      46.0,
+      15.5
+     ],
+     [
+      46.5,
+      16.0
+     ]
+    ],
+    "file": "pistes_n4600e01550.geojson",
+    "bytes": 2392,
+    "n": 9
+   },
+   {
+    "id": "n4600e01600",
+    "bounds": [
+     [
+      46.0,
+      16.0
+     ],
+     [
+      46.5,
+      16.5
+     ]
+    ],
+    "file": "pistes_n4600e01600.geojson",
+    "bytes": 492,
+    "n": 2
+   },
+   {
+    "id": "n4650e00550",
+    "bounds": [
+     [
+      46.5,
+      5.5
+     ],
+     [
+      47.0,
+      6.0
+     ]
+    ],
+    "file": "pistes_n4650e00550.geojson",
+    "bytes": 36630,
+    "n": 93
+   },
+   {
+    "id": "n4650e00600",
+    "bounds": [
+     [
+      46.5,
+      6.0
+     ],
+     [
+      47.0,
+      6.5
+     ]
+    ],
+    "file": "pistes_n4650e00600.geojson",
+    "bytes": 444550,
+    "n": 1221
+   },
+   {
+    "id": "n4650e00650",
+    "bounds": [
+     [
+      46.5,
+      6.5
+     ],
+     [
+      47.0,
+      7.0
+     ]
+    ],
+    "file": "pistes_n4650e00650.geojson",
+    "bytes": 74898,
+    "n": 208
+   },
+   {
+    "id": "n4650e00700",
+    "bounds": [
+     [
+      46.5,
+      7.0
+     ],
+     [
+      47.0,
+      7.5
+     ]
+    ],
+    "file": "pistes_n4650e00700.geojson",
+    "bytes": 111515,
+    "n": 345
+   },
+   {
+    "id": "n4650e00750",
+    "bounds": [
+     [
+      46.5,
+      7.5
+     ],
+     [
+      47.0,
+      8.0
+     ]
+    ],
+    "file": "pistes_n4650e00750.geojson",
+    "bytes": 256621,
+    "n": 837
+   },
+   {
+    "id": "n4650e00800",
+    "bounds": [
+     [
+      46.5,
+      8.0
+     ],
+     [
+      47.0,
+      8.5
+     ]
+    ],
+    "file": "pistes_n4650e00800.geojson",
+    "bytes": 294335,
+    "n": 936
+   },
+   {
+    "id": "n4650e00850",
+    "bounds": [
+     [
+      46.5,
+      8.5
+     ],
+     [
+      47.0,
+      9.0
+     ]
+    ],
+    "file": "pistes_n4650e00850.geojson",
+    "bytes": 300942,
+    "n": 932
+   },
+   {
+    "id": "n4650e00900",
+    "bounds": [
+     [
+      46.5,
+      9.0
+     ],
+     [
+      47.0,
+      9.5
+     ]
+    ],
+    "file": "pistes_n4650e00900.geojson",
+    "bytes": 410152,
+    "n": 1114
+   },
+   {
+    "id": "n4650e00950",
+    "bounds": [
+     [
+      46.5,
+      9.5
+     ],
+     [
+      47.0,
+      10.0
+     ]
+    ],
+    "file": "pistes_n4650e00950.geojson",
+    "bytes": 653148,
+    "n": 1970
+   },
+   {
+    "id": "n4650e01000",
+    "bounds": [
+     [
+      46.5,
+      10.0
+     ],
+     [
+      47.0,
+      10.5
+     ]
+    ],
+    "file": "pistes_n4650e01000.geojson",
+    "bytes": 532827,
+    "n": 1526
+   },
+   {
+    "id": "n4650e01050",
+    "bounds": [
+     [
+      46.5,
+      10.5
+     ],
+     [
+      47.0,
+      11.0
+     ]
+    ],
+    "file": "pistes_n4650e01050.geojson",
+    "bytes": 313416,
+    "n": 937
+   },
+   {
+    "id": "n4650e01100",
+    "bounds": [
+     [
+      46.5,
+      11.0
+     ],
+     [
+      47.0,
+      11.5
+     ]
+    ],
+    "file": "pistes_n4650e01100.geojson",
+    "bytes": 181252,
+    "n": 570
+   },
+   {
+    "id": "n4650e01150",
+    "bounds": [
+     [
+      46.5,
+      11.5
+     ],
+     [
+      47.0,
+      12.0
+     ]
+    ],
+    "file": "pistes_n4650e01150.geojson",
+    "bytes": 495780,
+    "n": 1500
+   },
+   {
+    "id": "n4650e01200",
+    "bounds": [
+     [
+      46.5,
+      12.0
+     ],
+     [
+      47.0,
+      12.5
+     ]
+    ],
+    "file": "pistes_n4650e01200.geojson",
+    "bytes": 418397,
+    "n": 1174
+   },
+   {
+    "id": "n4650e01250",
+    "bounds": [
+     [
+      46.5,
+      12.5
+     ],
+     [
+      47.0,
+      13.0
+     ]
+    ],
+    "file": "pistes_n4650e01250.geojson",
+    "bytes": 148957,
+    "n": 466
+   },
+   {
+    "id": "n4650e01300",
+    "bounds": [
+     [
+      46.5,
+      13.0
+     ],
+     [
+      47.0,
+      13.5
+     ]
+    ],
+    "file": "pistes_n4650e01300.geojson",
+    "bytes": 102212,
+    "n": 331
+   },
+   {
+    "id": "n4650e01350",
+    "bounds": [
+     [
+      46.5,
+      13.5
+     ],
+     [
+      47.0,
+      14.0
+     ]
+    ],
+    "file": "pistes_n4650e01350.geojson",
+    "bytes": 171801,
+    "n": 558
+   },
+   {
+    "id": "n4650e01400",
+    "bounds": [
+     [
+      46.5,
+      14.0
+     ],
+     [
+      47.0,
+      14.5
+     ]
+    ],
+    "file": "pistes_n4650e01400.geojson",
+    "bytes": 11846,
+    "n": 38
+   },
+   {
+    "id": "n4650e01450",
+    "bounds": [
+     [
+      46.5,
+      14.5
+     ],
+     [
+      47.0,
+      15.0
+     ]
+    ],
+    "file": "pistes_n4650e01450.geojson",
+    "bytes": 25990,
+    "n": 90
+   },
+   {
+    "id": "n4650e01500",
+    "bounds": [
+     [
+      46.5,
+      15.0
+     ],
+     [
+      47.0,
+      15.5
+     ]
+    ],
+    "file": "pistes_n4650e01500.geojson",
+    "bytes": 34193,
+    "n": 115
+   },
+   {
+    "id": "n4650e01550",
+    "bounds": [
+     [
+      46.5,
+      15.5
+     ],
+     [
+      47.0,
+      16.0
+     ]
+    ],
+    "file": "pistes_n4650e01550.geojson",
+    "bytes": 15761,
+    "n": 53
+   },
+   {
+    "id": "n4700e00450",
+    "bounds": [
+     [
+      47.0,
+      4.5
+     ],
+     [
+      47.5,
+      5.0
+     ]
+    ],
+    "file": "pistes_n4700e00450.geojson",
+    "bytes": 320,
+    "n": 1
+   },
+   {
+    "id": "n4700e00600",
+    "bounds": [
+     [
+      47.0,
+      6.0
+     ],
+     [
+      47.5,
+      6.5
+     ]
+    ],
+    "file": "pistes_n4700e00600.geojson",
+    "bytes": 21089,
+    "n": 48
+   },
+   {
+    "id": "n4700e00650",
+    "bounds": [
+     [
+      47.0,
+      6.5
+     ],
+     [
+      47.5,
+      7.0
+     ]
+    ],
+    "file": "pistes_n4700e00650.geojson",
+    "bytes": 93137,
+    "n": 250
+   },
+   {
+    "id": "n4700e00700",
+    "bounds": [
+     [
+      47.0,
+      7.0
+     ],
+     [
+      47.5,
+      7.5
+     ]
+    ],
+    "file": "pistes_n4700e00700.geojson",
+    "bytes": 60912,
+    "n": 199
+   },
+   {
+    "id": "n4700e00750",
+    "bounds": [
+     [
+      47.0,
+      7.5
+     ],
+     [
+      47.5,
+      8.0
+     ]
+    ],
+    "file": "pistes_n4700e00750.geojson",
+    "bytes": 19268,
+    "n": 70
+   },
+   {
+    "id": "n4700e00800",
+    "bounds": [
+     [
+      47.0,
+      8.0
+     ],
+     [
+      47.5,
+      8.5
+     ]
+    ],
+    "file": "pistes_n4700e00800.geojson",
+    "bytes": 40009,
+    "n": 121
+   },
+   {
+    "id": "n4700e00850",
+    "bounds": [
+     [
+      47.0,
+      8.5
+     ],
+     [
+      47.5,
+      9.0
+     ]
+    ],
+    "file": "pistes_n4700e00850.geojson",
+    "bytes": 174063,
+    "n": 526
+   },
+   {
+    "id": "n4700e00900",
+    "bounds": [
+     [
+      47.0,
+      9.0
+     ],
+     [
+      47.5,
+      9.5
+     ]
+    ],
+    "file": "pistes_n4700e00900.geojson",
+    "bytes": 243677,
+    "n": 721
+   },
+   {
+    "id": "n4700e00950",
+    "bounds": [
+     [
+      47.0,
+      9.5
+     ],
+     [
+      47.5,
+      10.0
+     ]
+    ],
+    "file": "pistes_n4700e00950.geojson",
+    "bytes": 451884,
+    "n": 1389
+   },
+   {
+    "id": "n4700e01000",
+    "bounds": [
+     [
+      47.0,
+      10.0
+     ],
+     [
+      47.5,
+      10.5
+     ]
+    ],
+    "file": "pistes_n4700e01000.geojson",
+    "bytes": 936316,
+    "n": 2483
+   },
+   {
+    "id": "n4700e01050",
+    "bounds": [
+     [
+      47.0,
+      10.5
+     ],
+     [
+      47.5,
+      11.0
+     ]
+    ],
+    "file": "pistes_n4700e01050.geojson",
+    "bytes": 551326,
+    "n": 1604
+   },
+   {
+    "id": "n4700e01100",
+    "bounds": [
+     [
+      47.0,
+      11.0
+     ],
+     [
+      47.5,
+      11.5
+     ]
+    ],
+    "file": "pistes_n4700e01100.geojson",
+    "bytes": 537025,
+    "n": 1586
+   },
+   {
+    "id": "n4700e01150",
+    "bounds": [
+     [
+      47.0,
+      11.5
+     ],
+     [
+      47.5,
+      12.0
+     ]
+    ],
+    "file": "pistes_n4700e01150.geojson",
+    "bytes": 525302,
+    "n": 1550
+   },
+   {
+    "id": "n4700e01200",
+    "bounds": [
+     [
+      47.0,
+      12.0
+     ],
+     [
+      47.5,
+      12.5
+     ]
+    ],
+    "file": "pistes_n4700e01200.geojson",
+    "bytes": 733693,
+    "n": 2127
+   },
+   {
+    "id": "n4700e01250",
+    "bounds": [
+     [
+      47.0,
+      12.5
+     ],
+     [
+      47.5,
+      13.0
+     ]
+    ],
+    "file": "pistes_n4700e01250.geojson",
+    "bytes": 607189,
+    "n": 1838
+   },
+   {
+    "id": "n4700e01300",
+    "bounds": [
+     [
+      47.0,
+      13.0
+     ],
+     [
+      47.5,
+      13.5
+     ]
+    ],
+    "file": "pistes_n4700e01300.geojson",
+    "bytes": 572614,
+    "n": 1629
+   },
+   {
+    "id": "n4700e01350",
+    "bounds": [
+     [
+      47.0,
+      13.5
+     ],
+     [
+      47.5,
+      14.0
+     ]
+    ],
+    "file": "pistes_n4700e01350.geojson",
+    "bytes": 492946,
+    "n": 1476
+   },
+   {
+    "id": "n4700e01400",
+    "bounds": [
+     [
+      47.0,
+      14.0
+     ],
+     [
+      47.5,
+      14.5
+     ]
+    ],
+    "file": "pistes_n4700e01400.geojson",
+    "bytes": 114247,
+    "n": 363
+   },
+   {
+    "id": "n4700e01450",
+    "bounds": [
+     [
+      47.0,
+      14.5
+     ],
+     [
+      47.5,
+      15.0
+     ]
+    ],
+    "file": "pistes_n4700e01450.geojson",
+    "bytes": 39477,
+    "n": 132
+   },
+   {
+    "id": "n4700e01500",
+    "bounds": [
+     [
+      47.0,
+      15.0
+     ],
+     [
+      47.5,
+      15.5
+     ]
+    ],
+    "file": "pistes_n4700e01500.geojson",
+    "bytes": 16727,
+    "n": 57
+   },
+   {
+    "id": "n4700e01550",
+    "bounds": [
+     [
+      47.0,
+      15.5
+     ],
+     [
+      47.5,
+      16.0
+     ]
+    ],
+    "file": "pistes_n4700e01550.geojson",
+    "bytes": 18570,
+    "n": 61
+   },
+   {
+    "id": "n4700e01600",
+    "bounds": [
+     [
+      47.0,
+      16.0
+     ],
+     [
+      47.5,
+      16.5
+     ]
+    ],
+    "file": "pistes_n4700e01600.geojson",
+    "bytes": 1952,
+    "n": 8
+   },
+   {
+    "id": "n4700e01650",
+    "bounds": [
+     [
+      47.0,
+      16.5
+     ],
+     [
+      47.5,
+      17.0
+     ]
+    ],
+    "file": "pistes_n4700e01650.geojson",
+    "bytes": 489,
+    "n": 2
+   },
+   {
+    "id": "n4750e00500",
+    "bounds": [
+     [
+      47.5,
+      5.0
+     ],
+     [
+      48.0,
+      5.5
+     ]
+    ],
+    "file": "pistes_n4750e00500.geojson",
+    "bytes": 391,
+    "n": 2
+   },
+   {
+    "id": "n4750e00650",
+    "bounds": [
+     [
+      47.5,
+      6.5
+     ],
+     [
+      48.0,
+      7.0
+     ]
+    ],
+    "file": "pistes_n4750e00650.geojson",
+    "bytes": 48787,
+    "n": 154
+   },
+   {
+    "id": "n4750e00700",
+    "bounds": [
+     [
+      47.5,
+      7.0
+     ],
+     [
+      48.0,
+      7.5
+     ]
+    ],
+    "file": "pistes_n4750e00700.geojson",
+    "bytes": 60734,
+    "n": 195
+   },
+   {
+    "id": "n4750e00750",
+    "bounds": [
+     [
+      47.5,
+      7.5
+     ],
+     [
+      48.0,
+      8.0
+     ]
+    ],
+    "file": "pistes_n4750e00750.geojson",
+    "bytes": 147142,
+    "n": 428
+   },
+   {
+    "id": "n4750e00800",
+    "bounds": [
+     [
+      47.5,
+      8.0
+     ],
+     [
+      48.0,
+      8.5
+     ]
+    ],
+    "file": "pistes_n4750e00800.geojson",
+    "bytes": 255612,
+    "n": 716
+   },
+   {
+    "id": "n4750e00850",
+    "bounds": [
+     [
+      47.5,
+      8.5
+     ],
+     [
+      48.0,
+      9.0
+     ]
+    ],
+    "file": "pistes_n4750e00850.geojson",
+    "bytes": 39453,
+    "n": 108
+   },
+   {
+    "id": "n4750e00900",
+    "bounds": [
+     [
+      47.5,
+      9.0
+     ],
+     [
+      48.0,
+      9.5
+     ]
+    ],
+    "file": "pistes_n4750e00900.geojson",
+    "bytes": 7892,
+    "n": 20
+   },
+   {
+    "id": "n4750e00950",
+    "bounds": [
+     [
+      47.5,
+      9.5
+     ],
+     [
+      48.0,
+      10.0
+     ]
+    ],
+    "file": "pistes_n4750e00950.geojson",
+    "bytes": 86554,
+    "n": 241
+   },
+   {
+    "id": "n4750e01000",
+    "bounds": [
+     [
+      47.5,
+      10.0
+     ],
+     [
+      48.0,
+      10.5
+     ]
+    ],
+    "file": "pistes_n4750e01000.geojson",
+    "bytes": 253039,
+    "n": 729
+   },
+   {
+    "id": "n4750e01050",
+    "bounds": [
+     [
+      47.5,
+      10.5
+     ],
+     [
+      48.0,
+      11.0
+     ]
+    ],
+    "file": "pistes_n4750e01050.geojson",
+    "bytes": 107640,
+    "n": 286
+   },
+   {
+    "id": "n4750e01100",
+    "bounds": [
+     [
+      47.5,
+      11.0
+     ],
+     [
+      48.0,
+      11.5
+     ]
+    ],
+    "file": "pistes_n4750e01100.geojson",
+    "bytes": 127287,
+    "n": 342
+   },
+   {
+    "id": "n4750e01150",
+    "bounds": [
+     [
+      47.5,
+      11.5
+     ],
+     [
+      48.0,
+      12.0
+     ]
+    ],
+    "file": "pistes_n4750e01150.geojson",
+    "bytes": 265414,
+    "n": 711
+   },
+   {
+    "id": "n4750e01200",
+    "bounds": [
+     [
+      47.5,
+      12.0
+     ],
+     [
+      48.0,
+      12.5
+     ]
+    ],
+    "file": "pistes_n4750e01200.geojson",
+    "bytes": 428900,
+    "n": 1218
+   },
+   {
+    "id": "n4750e01250",
+    "bounds": [
+     [
+      47.5,
+      12.5
+     ],
+     [
+      48.0,
+      13.0
+     ]
+    ],
+    "file": "pistes_n4750e01250.geojson",
+    "bytes": 191293,
+    "n": 547
+   },
+   {
+    "id": "n4750e01300",
+    "bounds": [
+     [
+      47.5,
+      13.0
+     ],
+     [
+      48.0,
+      13.5
+     ]
+    ],
+    "file": "pistes_n4750e01300.geojson",
+    "bytes": 149755,
+    "n": 456
+   },
+   {
+    "id": "n4750e01350",
+    "bounds": [
+     [
+      47.5,
+      13.5
+     ],
+     [
+      48.0,
+      14.0
+     ]
+    ],
+    "file": "pistes_n4750e01350.geojson",
+    "bytes": 176595,
+    "n": 539
+   },
+   {
+    "id": "n4750e01400",
+    "bounds": [
+     [
+      47.5,
+      14.0
+     ],
+     [
+      48.0,
+      14.5
+     ]
+    ],
+    "file": "pistes_n4750e01400.geojson",
+    "bytes": 209290,
+    "n": 590
+   },
+   {
+    "id": "n4750e01450",
+    "bounds": [
+     [
+      47.5,
+      14.5
+     ],
+     [
+      48.0,
+      15.0
+     ]
+    ],
+    "file": "pistes_n4750e01450.geojson",
+    "bytes": 67128,
+    "n": 204
+   },
+   {
+    "id": "n4750e01500",
+    "bounds": [
+     [
+      47.5,
+      15.0
+     ],
+     [
+      48.0,
+      15.5
+     ]
+    ],
+    "file": "pistes_n4750e01500.geojson",
+    "bytes": 111978,
+    "n": 345
+   },
+   {
+    "id": "n4750e01550",
+    "bounds": [
+     [
+      47.5,
+      15.5
+     ],
+     [
+      48.0,
+      16.0
+     ]
+    ],
+    "file": "pistes_n4750e01550.geojson",
+    "bytes": 82502,
+    "n": 239
+   },
+   {
+    "id": "n4750e01600",
+    "bounds": [
+     [
+      47.5,
+      16.0
+     ],
+     [
+      48.0,
+      16.5
+     ]
+    ],
+    "file": "pistes_n4750e01600.geojson",
+    "bytes": 14452,
+    "n": 50
+   },
+   {
+    "id": "n4750e01650",
+    "bounds": [
+     [
+      47.5,
+      16.5
+     ],
+     [
+      48.0,
+      17.0
+     ]
+    ],
+    "file": "pistes_n4750e01650.geojson",
+    "bytes": 8209,
+    "n": 21
+   },
+   {
+    "id": "n4800e00600",
+    "bounds": [
+     [
+      48.0,
+      6.0
+     ],
+     [
+      48.5,
+      6.5
+     ]
+    ],
+    "file": "pistes_n4800e00600.geojson",
+    "bytes": 448,
+    "n": 2
+   },
+   {
+    "id": "n4800e00650",
+    "bounds": [
+     [
+      48.0,
+      6.5
+     ],
+     [
+      48.5,
+      7.0
+     ]
+    ],
+    "file": "pistes_n4800e00650.geojson",
+    "bytes": 95416,
+    "n": 308
+   },
+   {
+    "id": "n4800e00700",
+    "bounds": [
+     [
+      48.0,
+      7.0
+     ],
+     [
+      48.5,
+      7.5
+     ]
+    ],
+    "file": "pistes_n4800e00700.geojson",
+    "bytes": 43640,
+    "n": 134
+   },
+   {
+    "id": "n4800e00750",
+    "bounds": [
+     [
+      48.0,
+      7.5
+     ],
+     [
+      48.5,
+      8.0
+     ]
+    ],
+    "file": "pistes_n4800e00750.geojson",
+    "bytes": 460,
+    "n": 2
+   },
+   {
+    "id": "n4800e00800",
+    "bounds": [
+     [
+      48.0,
+      8.0
+     ],
+     [
+      48.5,
+      8.5
+     ]
+    ],
+    "file": "pistes_n4800e00800.geojson",
+    "bytes": 86366,
+    "n": 247
+   },
+   {
+    "id": "n4800e00850",
+    "bounds": [
+     [
+      48.0,
+      8.5
+     ],
+     [
+      48.5,
+      9.0
+     ]
+    ],
+    "file": "pistes_n4800e00850.geojson",
+    "bytes": 93737,
+    "n": 273
+   },
+   {
+    "id": "n4800e00900",
+    "bounds": [
+     [
+      48.0,
+      9.0
+     ],
+     [
+      48.5,
+      9.5
+     ]
+    ],
+    "file": "pistes_n4800e00900.geojson",
+    "bytes": 115035,
+    "n": 342
+   },
+   {
+    "id": "n4800e00950",
+    "bounds": [
+     [
+      48.0,
+      9.5
+     ],
+     [
+      48.5,
+      10.0
+     ]
+    ],
+    "file": "pistes_n4800e00950.geojson",
+    "bytes": 28383,
+    "n": 78
+   },
+   {
+    "id": "n4800e01000",
+    "bounds": [
+     [
+      48.0,
+      10.0
+     ],
+     [
+      48.5,
+      10.5
+     ]
+    ],
+    "file": "pistes_n4800e01000.geojson",
+    "bytes": 2418,
+    "n": 7
+   },
+   {
+    "id": "n4800e01050",
+    "bounds": [
+     [
+      48.0,
+      10.5
+     ],
+     [
+      48.5,
+      11.0
+     ]
+    ],
+    "file": "pistes_n4800e01050.geojson",
+    "bytes": 1514,
+    "n": 4
+   },
+   {
+    "id": "n4800e01100",
+    "bounds": [
+     [
+      48.0,
+      11.0
+     ],
+     [
+      48.5,
+      11.5
+     ]
+    ],
+    "file": "pistes_n4800e01100.geojson",
+    "bytes": 2922,
+    "n": 9
+   },
+   {
+    "id": "n4800e01150",
+    "bounds": [
+     [
+      48.0,
+      11.5
+     ],
+     [
+      48.5,
+      12.0
+     ]
+    ],
+    "file": "pistes_n4800e01150.geojson",
+    "bytes": 11134,
+    "n": 35
+   },
+   {
+    "id": "n4800e01250",
+    "bounds": [
+     [
+      48.0,
+      12.5
+     ],
+     [
+      48.5,
+      13.0
+     ]
+    ],
+    "file": "pistes_n4800e01250.geojson",
+    "bytes": 236,
+    "n": 1
+   },
+   {
+    "id": "n4800e01300",
+    "bounds": [
+     [
+      48.0,
+      13.0
+     ],
+     [
+      48.5,
+      13.5
+     ]
+    ],
+    "file": "pistes_n4800e01300.geojson",
+    "bytes": 4127,
+    "n": 10
+   },
+   {
+    "id": "n4800e01350",
+    "bounds": [
+     [
+      48.0,
+      13.5
+     ],
+     [
+      48.5,
+      14.0
+     ]
+    ],
+    "file": "pistes_n4800e01350.geojson",
+    "bytes": 3712,
+    "n": 11
+   },
+   {
+    "id": "n4800e01400",
+    "bounds": [
+     [
+      48.0,
+      14.0
+     ],
+     [
+      48.5,
+      14.5
+     ]
+    ],
+    "file": "pistes_n4800e01400.geojson",
+    "bytes": 2276,
+    "n": 7
+   },
+   {
+    "id": "n4800e01450",
+    "bounds": [
+     [
+      48.0,
+      14.5
+     ],
+     [
+      48.5,
+      15.0
+     ]
+    ],
+    "file": "pistes_n4800e01450.geojson",
+    "bytes": 3544,
+    "n": 12
+   },
+   {
+    "id": "n4800e01500",
+    "bounds": [
+     [
+      48.0,
+      15.0
+     ],
+     [
+      48.5,
+      15.5
+     ]
+    ],
+    "file": "pistes_n4800e01500.geojson",
+    "bytes": 2383,
+    "n": 9
+   },
+   {
+    "id": "n4800e01550",
+    "bounds": [
+     [
+      48.0,
+      15.5
+     ],
+     [
+      48.5,
+      16.0
+     ]
+    ],
+    "file": "pistes_n4800e01550.geojson",
+    "bytes": 1540,
+    "n": 6
+   },
+   {
+    "id": "n4800e01600",
+    "bounds": [
+     [
+      48.0,
+      16.0
+     ],
+     [
+      48.5,
+      16.5
+     ]
+    ],
+    "file": "pistes_n4800e01600.geojson",
+    "bytes": 9958,
+    "n": 29
+   }
+  ]
+ },
+ "avalanche_regions": "avalanche_regions_alps.geojson",
+ "avalanche_ratings": "avalanche_ratings.json",
+ "stations": "stations_alps.geojson",
+ "validation": "validation.json",
+ "stations_attribution": [
+  "Vir: ARSO (Agencija Republike Slovenije za okolje)",
+  "Source: Autonome Provinz Bozen - S\u00fcdtirol, Hydrographisches Amt",
+  "Quelle: Deutscher Wetterdienst",
+  "Quelle: Deutscher Wetterdienst",
+  "\u00a9 Lawinenwarndienst Tirol / S\u00fcdtirol / Meteotrentino (Euregio, avalanche.report)",
+  "Datenquelle: GeoSphere Austria - data.hub.geosphere.at",
+  "Source: MeteoSwiss",
+  "Source: MeteoSwiss",
+  "Source: M\u00e9t\u00e9o-France, donn\u00e9es climatologiques de base quotidiennes (Licence Ouverte Etalab 2.0)",
+  "Source: WSL Institute for Snow and Avalanche Research SLF, www.slf.ch (IMIS, doi:10.16904/envidat.406)",
+  "Source: WSL Institute for Snow and Avalanche Research SLF, www.slf.ch (manual study plots, doi:10.16904/envidat.408)"
+ ],
+ "stations_info": {
+  "calibrated": false,
+  "n_usable": 714,
+  "n_used_last_analysis_day": 0,
+  "networks": [
+   "arso",
+   "bolzano",
+   "dwd_kl",
+   "dwd_precip",
+   "euregio",
+   "geosphere",
+   "meteoswiss_nime",
+   "meteoswiss_smn",
+   "mf_quot",
+   "slf_imis",
+   "slf_studyplot"
+  ]
+ }
+}
